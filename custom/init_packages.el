@@ -97,6 +97,10 @@
 ;; multiple-cursors
 (require 'multiple-cursors)
 
+;; pyvenv
+
+(defalias 'workon 'pyvenv-workon)
+
 ;; magic words
 
 (provide 'init_packages)
