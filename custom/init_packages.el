@@ -101,6 +101,10 @@
 
 (defalias 'workon 'pyvenv-workon)
 
+;; yasnippet
+
+(yas-global-mode 1)
+
 ;; magic words
 
 (provide 'init_packages)

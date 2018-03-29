@@ -23,7 +23,7 @@
  '(menu-bar-mode nil)
  '(package-selected-packages
    (quote
-    (markdown-mode pyvenv anaconda-mode company-anaconda gitignore-mode darktooth-theme paradox magit multiple-cursors smartparens smart-mode-line flx-ido ido-ubiquitous popwin nlinum ibuffer-projectile neotree projectile smex company-quickhelp company)))
+    (yasnippet markdown-mode pyvenv anaconda-mode company-anaconda gitignore-mode darktooth-theme paradox magit multiple-cursors smartparens smart-mode-line flx-ido ido-ubiquitous popwin nlinum ibuffer-projectile neotree projectile smex company-quickhelp company)))
  '(scroll-bar-mode nil)
  '(show-paren-mode t)
  '(tool-bar-mode nil)
